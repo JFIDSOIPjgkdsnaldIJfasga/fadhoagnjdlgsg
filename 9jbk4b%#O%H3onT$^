@@ -1,6 +1,4 @@
--- ================================================================
--- HNDRIXX PREMIUM V2.0 — GREY EDITION (SQUARE)
--- ================================================================
+
 
 local TweenService = game:GetService("TweenService")
 local CoreGui = game:GetService("CoreGui")
